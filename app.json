@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "listify",
+    "name": "Listify",
     "slug": "listify",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": false,
+      "bundleIdentifier": "com.chinmay.listify"
     },
     "android": {
       "adaptiveIcon": {
@@ -15,10 +16,21 @@
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
-      }
+      },
+      "package": "com.chinmay.listify"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "scheme": "listify",
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Listify uses your photos so you can create listings from pictures of items you sell.",
+          "cameraPermission": "Listify uses the camera so you can photograph items you want to list."
+        }
+      ]
+    ]
   }
 }
