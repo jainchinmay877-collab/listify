@@ -16,3 +16,5 @@ supabase/.branches/
 .idea/
 .temp/
 backend/claude-version/index.ts
+AGENTS.md
+.claude/
