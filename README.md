@@ -2,7 +2,7 @@
 
 **Photo in, listing out.** A mobile app that turns a photo of an item into a ready-to-post marketplace listing: title, description, tags and an estimated price range, written for eBay, Vinted, Etsy or Facebook Marketplace.
 
-**Status:** personal project. It works end to end on real phones (Expo Go, plus an Android test build). It is not published in the app stores and has no payments yet.
+**Status:** personal project. It works end to end on real phones (through Expo Go). It is not published in the app stores and has no payments yet.
 
 <!-- Add a demo video link or GIF here, and screenshots below. -->
 <!-- Demo: https://... -->
