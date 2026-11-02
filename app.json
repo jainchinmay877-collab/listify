@@ -30,7 +30,8 @@
           "photosPermission": "Listify uses your photos so you can create listings from pictures of items you sell.",
           "cameraPermission": "Listify uses the camera so you can photograph items you want to list."
         }
-      ]
+      ],
+      "expo-status-bar"
     ]
   }
 }

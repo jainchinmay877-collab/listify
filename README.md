@@ -4,8 +4,15 @@
 
 **Status:** personal project. It works end to end on real phones (through Expo Go). It is not published in the app stores and has no payments yet.
 
-<!-- Add a demo video link or GIF here, and screenshots below. -->
-<!-- Demo: https://... -->
+## Demo
+
+[Watch the 30-second demo](https://youtube.com/shorts/urwRmu51P1I)
+
+<p>
+ <img src="assets/demo/1-signin.PNG" alt="Sign-in screen" width="220" />
+<img src="assets/demo/3-home.PNG" alt="Home screen" width="220" />
+<img src="assets/demo/2-results.PNG" alt="Generated listing" width="220" />
+</p>
 
 ## What it does
 

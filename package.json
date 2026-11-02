@@ -5,14 +5,14 @@
   "dependencies": {
     "@react-native-async-storage/async-storage": "2.2.0",
     "@supabase/supabase-js": "^2.117.3",
-    "expo": "~57.0.27",
-    "expo-clipboard": "~57.0.2",
-    "expo-image-manipulator": "~57.0.21",
-    "expo-image-picker": "~57.0.20",
-    "expo-status-bar": "~57.0.1",
-    "react": "19.2.3",
-    "react-native": "0.86.3",
-    "react-native-safe-area-context": "~5.7.0",
+    "expo": "^58.0.0",
+    "expo-clipboard": "~58.0.4",
+    "expo-image-manipulator": "~58.0.16",
+    "expo-image-picker": "~58.0.10",
+    "expo-status-bar": "~58.0.4",
+    "react": "19.3.0",
+    "react-native": "0.88.1",
+    "react-native-safe-area-context": "~5.10.1",
     "react-native-url-polyfill": "^4.0.0"
   },
   "scripts": {
@@ -21,5 +21,9 @@
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@types/react": "~19.3.0",
+    "typescript": "~6.0.3"
+  }
 }
