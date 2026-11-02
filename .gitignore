@@ -13,3 +13,6 @@ web-build/
 .DS_Store
 supabase/.temp/
 supabase/.branches/
+.idea/
+.temp/
+backend/claude-version/index.ts
